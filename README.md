@@ -186,4 +186,4 @@ Output files are saved under the `/Results` folder.
 
 ## Author
 
-Marine Corps Veteran and recent Computer Science graduate from UMass Boston. Passionate about data science and machine learning.
+Business Systems Analyst at HarborOne Bank, Marine Corps Veteran, and recent Computer Science graduate from UMass Boston. Passionate about data science and machine learning.
