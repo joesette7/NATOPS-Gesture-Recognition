@@ -170,18 +170,6 @@ Each model generates:
 
 ---
 
-📁 Project Structure
-NATOPS_Gesture_Recognition/
-├── NATOPS-data/
-│   ├── JapaneseVowels/
-│   └── NATOPS/
-├── Results/
-├── code/
-├── .gitignore
-└── README.md
-
----
-
 ## How to Run
 
 ```bash
